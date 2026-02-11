@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="aam-inkscape.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.5418692"
+     inkscape:cx="294.75962"
+     inkscape:cy="495.35991"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fc9901;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#fdcc80;stop-opacity:0.49803922;"
+         offset="0.67882699"
+         id="stop2" />
+      <stop
+         style="stop-color:#fee5bf;stop-opacity:0.24705882;"
+         offset="0.95236528"
+         id="stop3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#fc9901;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#fdcc80;stop-opacity:0.49803922;"
+         offset="0.67882699"
+         id="stop7" />
+      <stop
+         style="stop-color:#fee5bf;stop-opacity:0.24705882;"
+         offset="0.93506569"
+         id="stop8" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5"
+       id="radialGradient6"
+       cx="66.26487"
+       cy="132.89993"
+       fx="66.26487"
+       fy="132.89993"
+       r="4.521952"
+       gradientTransform="matrix(1.3709436,0.02786576,-0.01120833,0.72063158,-49.34132,46.804345)"
+       gradientUnits="userSpaceOnUse" />
+    <path
+       id="MJX-15-NCM-I-1D44E"
+       d="M498 144C498 153 493 158 482 158C474 158 468 151 465 137C445 58 421 18 394 18C377 18 368 32 368 60C368 73 372 97 381 132L438 357C443 376 445 387 445 392C445 412 434 422 412 422C391 422 377 410 370 387C349 424 319 442 281 442C216 442 159 409 109 343C63 281 40 217 40 150C40 63 91-11 175-11C218-11 260 12 300 58C311 20 345-11 392-11C461-11 482 70 498 144M341 374C350 353 355 339 355 330C355 326 354 321 353 314L304 122C301 111 294 99 285 87C248 41 212 18 177 18C138 18 118 48 118 107C118 131 124 167 136 215C157 300 187 357 224 388C244 405 263 413 282 413C309 413 329 400 341 374Z" />
+    <path
+       id="MJX-15-NCM-N-2062"
+       d="" />
+    <path
+       id="MJX-15-NCM-I-1D453"
+       d="M552 633C552 677 509 705 462 705C400 705 357 665 334 586C329 568 318 517 302 433L237 433C215 433 204 432 204 411C204 400 214 395 235 395L295 395L222 8C211-49 201-91 192-119C180-156 163-175 141-175C126-175 114-171 103-164C135-159 151-140 151-108C151-82 138-69 111-69C77-69 53-99 53-133C53-177 94-205 141-205C166-205 189-195 208-174C240-141 265-94 283-31C294 8 304 46 311 84L369 395L451 395C474 395 484 396 484 419C484 428 474 433 454 433L377 433C383 474 411 625 420 644C430 665 444 675 462 675C477 675 490 671 501 664C470 657 454 639 454 608C454 582 467 569 494 569C528 569 552 599 552 633Z" />
+    <path
+       id="MJX-15-NCM-N-2061"
+       d="" />
+    <path
+       id="MJX-15-NCM-I-1D456"
+       d="M284 621C284 648 271 661 244 661C216 661 188 633 188 605C188 578 202 565 229 565C257 565 284 593 284 621M259 138C237 59 205 19 164 19C151 19 144 28 144 47C144 64 173 150 232 306C240 329 244 347 244 360C244 409 210 445 161 445C118 445 84 420 59 369C39 328 29 301 29 288C29 279 34 275 45 275C58 275 60 281 64 295C87 375 118 415 158 415C171 415 178 406 178 387C178 373 175 357 168 338C145 275 121 208 101 155C86 115 78 88 78 74C78 25 114-11 162-11C205-11 239 14 264 64C283 103 293 130 293 145C293 154 288 159 277 159C274 159 259 150 259 138Z" />
+    <path
+       id="MJX-15-NCM-I-1D462"
+       d="M543 144C543 153 538 158 527 158C518 158 513 151 510 137C505 118 500 99 493 80C480 39 462 18 440 18C422 18 413 32 413 60C413 77 420 111 433 161L460 267C469 303 477 328 483 359L489 386C491 393 492 398 492 401C492 421 481 431 459 431C437 431 423 419 417 394L343 98C342 95 338 88 330 76C314 50 275 18 235 18C197 18 178 44 178 95C178 136 196 202 231 294C242 324 248 345 248 357C248 407 213 442 163 442C118 442 83 417 58 367C39 328 29 301 29 287C29 278 34 273 45 273C58 273 60 279 64 293C87 373 119 413 160 413C174 413 181 403 181 384C181 369 175 348 164 319C126 218 107 148 107 111C107 34 155-11 232-11C275-11 314 9 347 50C361 9 391-11 437-11C506-11 527 70 543 144Z" />
+    <path
+       id="MJX-15-NCM-I-1D452"
+       d="M124 129C124 153 129 186 139 227L188 227C253 227 303 235 339 250C372 264 394 284 405 309C412 326 415 342 415 355C415 410 363 442 307 442C268 442 229 432 190 412C113 372 46 281 46 171C46 69 105-11 204-11C257-11 304 2 345 27C379 48 404 69 420 90C427 99 430 106 430 109C430 120 425 126 414 126C409 126 404 122 398 114C365 70 324 42 277 30C246 22 223 18 206 18C149 18 124 72 124 129M375 355C375 289 311 256 182 256L147 256C166 322 194 366 232 387C262 404 287 413 307 413C343 413 375 391 375 355Z" />
+    <path
+       id="MJX-15-NCM-I-210E"
+       d="M512 138C489 59 457 19 415 19C402 19 395 28 395 47C395 62 401 85 413 116C453 223 473 296 473 335C473 406 427 445 356 445C303 445 257 423 218 380L291 679C289 688 287 694 274 694C241 694 168 685 155 684C140 682 132 675 132 660C132 650 141 645 159 645C180 645 203 646 205 632L59 43C56 32 55 25 55 21C55 0 66-11 87-11C107-11 121-1 128 18L168 182C180 231 189 268 196 293C199 300 207 314 220 334C256 388 300 415 353 415C386 415 402 393 402 350C402 309 382 236 342 130C333 107 329 89 329 74C329 26 365-11 413-11C457-11 492 14 517 65C536 105 546 132 546 145C546 154 541 159 530 159C527 159 512 150 512 138Z" />
+    <path
+       id="MJX-15-NCM-I-1D45C"
+       d="M308 442C239 442 176 412 122 353C68 294 41 229 41 159C41 63 106-11 202-11C272-11 334 19 388 78C442 137 469 201 469 272C469 369 405 442 308 442M389 310C389 287 384 255 374 213C353 130 319 73 272 42C248 26 225 18 203 18C149 18 121 65 121 122C121 180 155 288 178 324C216 383 259 413 307 413C361 413 389 367 389 310Z" />
+    <path
+       id="MJX-15-NCM-I-1D460"
+       d="M420 354C420 411 362 442 300 442C237 442 192 423 165 385C142 352 130 322 130 295C130 242 165 208 234 193C263 188 285 181 302 173C323 164 333 147 333 123C333 105 325 85 308 62C287 33 250 18 197 18C143 18 108 33 92 62C124 61 151 87 151 119C151 144 138 157 111 157C75 157 52 124 52 88C52 22 124-11 196-11C271-11 325 11 357 56C384 93 397 126 397 156C397 199 376 231 335 252C304 263 280 270 265 273C230 282 194 285 194 328C194 381 244 413 300 413C342 413 369 400 382 375C360 371 337 352 337 327C337 306 348 295 371 295C402 295 420 323 420 354Z" />
+    <path
+       id="MJX-15-NCM-LT-23DF"
+       d="M510-294L1002-294L1002-188L510-188C385-188 277-179 188-160C99-141 47-112 32-73C29-66 24-62 17-62C6-62 0-67 0-78C0-81 0-84 1-85C26-151 100-204 225-245C325-278 420-294 510-294Z" />
+    <path
+       id="MJX-15-NCM-RB-23DF"
+       d="M1000-85C1001-84 1001-81 1001-78C1001-67 995-62 984-62C977-62 971-66 968-73C954-112 902-141 813-160C724-179 616-188 491-188L0-188L0-294L491-294C581-294 676-278 776-245C901-204 975-151 1000-85Z" />
+    <path
+       id="MJX-15-NCM-EM-23DF"
+       d="M1496-294L2003-294L2003-188L1496-188C1407-188 1317-200 1228-224C1115-255 1039-298 1001-355C963-298 887-255 774-224C685-200 595-188 506-188L0-188L0-294L506-294C649-294 765-303 854-321C941-338 984-366 984-403C984-414 990-419 1001-419C1012-419 1018-414 1018-403C1018-366 1062-338 1150-320C1238-302 1353-294 1496-294Z" />
+    <path
+       id="MJX-15-NCM-EM-5F"
+       d="M0-294L994-294L994-188L0-188Z" />
+    <path
+       id="MJX-16-NCM-I-1D467"
+       d="M162 92L145 90C193 137 230 171 255 194L351 283C374 304 398 330 421 359C452 397 467 420 467 428C467 437 462 442 452 442C445 442 439 438 434 429C409 388 386 368 364 368C342 368 326 386 317 398C293 427 269 442 246 442C220 442 193 430 165 404C137 378 123 352 123 326C123 316 128 311 139 311C146 311 152 316 156 325C167 354 194 368 235 368C249 368 269 363 296 354C320 345 343 340 364 339C308 284 265 244 234 217L145 134C130 119 111 99 90 74C59 35 43 12 43 3C43-6 48-11 59-11C65-11 71-6 78 4C103 43 130 63 158 63C174 63 192 51 212 26C232 1 255-11 278-11C312-11 346 7 382 42C418 77 436 111 436 144C436 153 431 158 420 158C413 158 407 153 402 143C387 100 344 63 288 63C264 63 186 92 162 92Z" />
+    <path
+       id="MJX-21-NCM-B-1D427"
+       d="M615 0L615 47L546 47L546 306C546 411 492 450 392 450C296 450 243 393 217 342L217 450L45 442L45 395C107 395 114 395 114 356L114 47L45 47L45 0L171 3L297 0L297 47L228 47L228 256C228 365 314 414 377 414C411 414 432 393 432 317L432 47L363 47L363 0L489 3Z" />
+    <path
+       id="MJX-25-NCM-BI-1D741"
+       d="M674 148C674 162 659 162 650 162C639 162 635 162 630 157C628 155 628 153 622 128C602 48 579 28 554 28C543 28 531 32 531 65C531 82 535 98 545 138L593 330C599 353 609 393 609 400C609 421 593 444 562 444C542 444 507 432 496 391L427 114C423 96 406 79 388 64C356 37 326 28 299 28C231 28 225 77 225 107C225 134 231 158 235 176L275 332C281 358 292 401 292 408C292 429 276 452 245 452C193 452 180 402 177 390L44-141C40-157 40-163 40-167C40-199 66-211 87-211C106-211 133-200 147-172C153-160 186-23 193 8C234-8 279-8 292-8C326-8 372-2 432 52C456 6 512-8 549-8C586-8 615 13 636 49C661 89 674 143 674 148Z" />
+    <path
+       id="MJX-25-NCM-I-1D44E"
+       d="M498 144C498 153 493 158 482 158C474 158 468 151 465 137C445 58 421 18 394 18C377 18 368 32 368 60C368 73 372 97 381 132L438 357C443 376 445 387 445 392C445 412 434 422 412 422C391 422 377 410 370 387C349 424 319 442 281 442C216 442 159 409 109 343C63 281 40 217 40 150C40 63 91-11 175-11C218-11 260 12 300 58C311 20 345-11 392-11C461-11 482 70 498 144M341 374C350 353 355 339 355 330C355 326 354 321 353 314L304 122C301 111 294 99 285 87C248 41 212 18 177 18C138 18 118 48 118 107C118 131 124 167 136 215C157 300 187 357 224 388C244 405 263 413 282 413C309 413 329 400 341 374Z" />
+    <path
+       id="MJX-34-NCM-BI-1D741"
+       d="M674 148C674 162 659 162 650 162C639 162 635 162 630 157C628 155 628 153 622 128C602 48 579 28 554 28C543 28 531 32 531 65C531 82 535 98 545 138L593 330C599 353 609 393 609 400C609 421 593 444 562 444C542 444 507 432 496 391L427 114C423 96 406 79 388 64C356 37 326 28 299 28C231 28 225 77 225 107C225 134 231 158 235 176L275 332C281 358 292 401 292 408C292 429 276 452 245 452C193 452 180 402 177 390L44-141C40-157 40-163 40-167C40-199 66-211 87-211C106-211 133-200 147-172C153-160 186-23 193 8C234-8 279-8 292-8C326-8 372-2 432 52C456 6 512-8 549-8C586-8 615 13 636 49C661 89 674 143 674 148Z" />
+    <path
+       id="MJX-34-NCM-I-1D44E"
+       d="M498 144C498 153 493 158 482 158C474 158 468 151 465 137C445 58 421 18 394 18C377 18 368 32 368 60C368 73 372 97 381 132L438 357C443 376 445 387 445 392C445 412 434 422 412 422C391 422 377 410 370 387C349 424 319 442 281 442C216 442 159 409 109 343C63 281 40 217 40 150C40 63 91-11 175-11C218-11 260 12 300 58C311 20 345-11 392-11C461-11 482 70 498 144M341 374C350 353 355 339 355 330C355 326 354 321 353 314L304 122C301 111 294 99 285 87C248 41 212 18 177 18C138 18 118 48 118 107C118 131 124 167 136 215C157 300 187 357 224 388C244 405 263 413 282 413C309 413 329 400 341 374Z" />
+    <path
+       id="MJX-34-NCM-N-22C5"
+       d="M192 250C192 279 168 303 139 303C110 303 86 279 86 250C86 221 110 197 139 197C168 197 192 221 192 250Z" />
+    <path
+       id="MJX-34-NCM-B-1D427"
+       d="M615 0L615 47L546 47L546 306C546 411 492 450 392 450C296 450 243 393 217 342L217 450L45 442L45 395C107 395 114 395 114 356L114 47L45 47L45 0L171 3L297 0L297 47L228 47L228 256C228 365 314 414 377 414C411 414 432 393 432 317L432 47L363 47L363 0L489 3Z" />
+    <path
+       id="MJX-34-NCM-N-3C"
+       d="M666-45C683-52 701-39 701-23C701-13 696-6 687-2L153 250L687 502C696 506 701 513 701 522C701 539 693 547 677 547C673 547 669 546 666 545L92 273C82 268 77 261 77 250C77 239 82 232 92 227Z" />
+    <path
+       id="MJX-34-NCM-I-1D467"
+       d="M162 92L145 90C193 137 230 171 255 194L351 283C374 304 398 330 421 359C452 397 467 420 467 428C467 437 462 442 452 442C445 442 439 438 434 429C409 388 386 368 364 368C342 368 326 386 317 398C293 427 269 442 246 442C220 442 193 430 165 404C137 378 123 352 123 326C123 316 128 311 139 311C146 311 152 316 156 325C167 354 194 368 235 368C249 368 269 363 296 354C320 345 343 340 364 339C308 284 265 244 234 217L145 134C130 119 111 99 90 74C59 35 43 12 43 3C43-6 48-11 59-11C65-11 71-6 78 4C103 43 130 63 158 63C174 63 192 51 212 26C232 1 255-11 278-11C312-11 346 7 382 42C418 77 436 111 436 144C436 153 431 158 420 158C413 158 407 153 402 143C387 100 344 63 288 63C264 63 186 92 162 92Z" />
+    <path
+       id="MJX-35-NCM-BI-1D741"
+       d="M674 148C674 162 659 162 650 162C639 162 635 162 630 157C628 155 628 153 622 128C602 48 579 28 554 28C543 28 531 32 531 65C531 82 535 98 545 138L593 330C599 353 609 393 609 400C609 421 593 444 562 444C542 444 507 432 496 391L427 114C423 96 406 79 388 64C356 37 326 28 299 28C231 28 225 77 225 107C225 134 231 158 235 176L275 332C281 358 292 401 292 408C292 429 276 452 245 452C193 452 180 402 177 390L44-141C40-157 40-163 40-167C40-199 66-211 87-211C106-211 133-200 147-172C153-160 186-23 193 8C234-8 279-8 292-8C326-8 372-2 432 52C456 6 512-8 549-8C586-8 615 13 636 49C661 89 674 143 674 148Z" />
+    <path
+       id="MJX-35-NCM-I-1D44F"
+       d="M281 445C245 445 209 428 174 394L243 679C241 688 238 694 226 694C193 694 120 685 107 684C92 682 84 675 84 660C84 650 93 645 112 645C131 645 157 646 157 632C157 628 152 608 143 571L63 249C52 207 47 173 47 148C47 62 93-11 175-11C240-11 297 22 347 89C392 151 415 216 415 283C415 370 364 445 281 445M279 415C318 415 337 385 337 326C337 299 331 263 319 218C297 133 268 75 233 44C213 27 194 19 175 19C134 19 114 51 114 115C114 137 119 170 129 214L151 304C154 319 159 330 165 338C204 389 242 415 279 415Z" />
+    <path
+       id="MJX-35-NCM-N-22C5"
+       d="M192 250C192 279 168 303 139 303C110 303 86 279 86 250C86 221 110 197 139 197C168 197 192 221 192 250Z" />
+    <path
+       id="MJX-35-NCM-B-1D427"
+       d="M615 0L615 47L546 47L546 306C546 411 492 450 392 450C296 450 243 393 217 342L217 450L45 442L45 395C107 395 114 395 114 356L114 47L45 47L45 0L171 3L297 0L297 47L228 47L228 256C228 365 314 414 377 414C411 414 432 393 432 317L432 47L363 47L363 0L489 3Z" />
+    <path
+       id="MJX-35-NCM-N-3C"
+       d="M666-45C683-52 701-39 701-23C701-13 696-6 687-2L153 250L687 502C696 506 701 513 701 522C701 539 693 547 677 547C673 547 669 546 666 545L92 273C82 268 77 261 77 250C77 239 82 232 92 227Z" />
+    <path
+       id="MJX-35-NCM-I-1D467"
+       d="M162 92L145 90C193 137 230 171 255 194L351 283C374 304 398 330 421 359C452 397 467 420 467 428C467 437 462 442 452 442C445 442 439 438 434 429C409 388 386 368 364 368C342 368 326 386 317 398C293 427 269 442 246 442C220 442 193 430 165 404C137 378 123 352 123 326C123 316 128 311 139 311C146 311 152 316 156 325C167 354 194 368 235 368C249 368 269 363 296 354C320 345 343 340 364 339C308 284 265 244 234 217L145 134C130 119 111 99 90 74C59 35 43 12 43 3C43-6 48-11 59-11C65-11 71-6 78 4C103 43 130 63 158 63C174 63 192 51 212 26C232 1 255-11 278-11C312-11 346 7 382 42C418 77 436 111 436 144C436 153 431 158 420 158C413 158 407 153 402 143C387 100 344 63 288 63C264 63 186 92 162 92Z" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7-4" />
+    </marker>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="radialGradient6-4"
+       cx="66.26487"
+       cy="132.89993"
+       fx="66.26487"
+       fy="132.89993"
+       r="4.5219522"
+       gradientTransform="matrix(0.58759076,-0.03135118,0.04626441,0.61998007,-25.081798,65.17649)"
+       gradientUnits="userSpaceOnUse" />
+    <path
+       id="MJX-57-NCM-BI-1D741"
+       d="M674 148C674 162 659 162 650 162C639 162 635 162 630 157C628 155 628 153 622 128C602 48 579 28 554 28C543 28 531 32 531 65C531 82 535 98 545 138L593 330C599 353 609 393 609 400C609 421 593 444 562 444C542 444 507 432 496 391L427 114C423 96 406 79 388 64C356 37 326 28 299 28C231 28 225 77 225 107C225 134 231 158 235 176L275 332C281 358 292 401 292 408C292 429 276 452 245 452C193 452 180 402 177 390L44-141C40-157 40-163 40-167C40-199 66-211 87-211C106-211 133-200 147-172C153-160 186-23 193 8C234-8 279-8 292-8C326-8 372-2 432 52C456 6 512-8 549-8C586-8 615 13 636 49C661 89 674 143 674 148Z" />
+    <path
+       id="MJX-64-NCM-BI-1D741"
+       d="M674 148C674 162 659 162 650 162C639 162 635 162 630 157C628 155 628 153 622 128C602 48 579 28 554 28C543 28 531 32 531 65C531 82 535 98 545 138L593 330C599 353 609 393 609 400C609 421 593 444 562 444C542 444 507 432 496 391L427 114C423 96 406 79 388 64C356 37 326 28 299 28C231 28 225 77 225 107C225 134 231 158 235 176L275 332C281 358 292 401 292 408C292 429 276 452 245 452C193 452 180 402 177 390L44-141C40-157 40-163 40-167C40-199 66-211 87-211C106-211 133-200 147-172C153-160 186-23 193 8C234-8 279-8 292-8C326-8 372-2 432 52C456 6 512-8 549-8C586-8 615 13 636 49C661 89 674 143 674 148Z" />
+    <path
+       id="MJX-64-NCM-N-2C"
+       d="M139 106C107 106 86 82 86 50C86 20 109-5 139-5C153-5 165-1 174 8L175 0C175-63 154-117 112-160C105-168 101-174 101-178C101-188 105-193 114-193C123-193 135-181 152-158C186-110 203-57 203 0C203 53 185 106 139 106Z" />
+    <path
+       id="MJX-64-NCM-B-1D42C"
+       d="M415 140C415 183 395 218 360 246C321 275 289 281 211 294C174 301 109 312 109 359C109 421 202 421 221 421C296 421 334 392 339 337C340 322 341 317 362 317C386 317 386 322 386 345L386 425C386 444 386 453 368 453C364 453 362 453 323 434C297 447 262 453 222 453C192 453 38 453 38 322C38 282 58 255 78 238C118 203 156 197 233 183C269 177 344 164 344 105C344 30 252 30 230 30C124 30 98 103 86 146C81 160 76 160 62 160C38 160 38 154 38 131L38 22C38 3 38-6 56-6C63-6 65-6 86 9L112 26C158-6 210-6 230-6C261-6 415-6 415 140Z" />
+    <path
+       id="MJX-64-NCM-B-1D42B"
+       d="M442 368C442 421 388 450 336 450C266 450 226 400 203 337L203 450L37 442L37 395C99 395 106 395 106 356L106 47L37 47L37 0L163 3C201 3 265 3 301 0L301 47L214 47L214 222C214 292 239 414 339 414C339 414 320 397 320 368C320 327 352 307 381 307C410 307 442 328 442 368Z" />
+    <path
+       id="MJX-67-NCM-BI-1D741"
+       d="M674 148C674 162 659 162 650 162C639 162 635 162 630 157C628 155 628 153 622 128C602 48 579 28 554 28C543 28 531 32 531 65C531 82 535 98 545 138L593 330C599 353 609 393 609 400C609 421 593 444 562 444C542 444 507 432 496 391L427 114C423 96 406 79 388 64C356 37 326 28 299 28C231 28 225 77 225 107C225 134 231 158 235 176L275 332C281 358 292 401 292 408C292 429 276 452 245 452C193 452 180 402 177 390L44-141C40-157 40-163 40-167C40-199 66-211 87-211C106-211 133-200 147-172C153-160 186-23 193 8C234-8 279-8 292-8C326-8 372-2 432 52C456 6 512-8 549-8C586-8 615 13 636 49C661 89 674 143 674 148Z" />
+    <path
+       id="MJX-67-NCM-V-2032"
+       d="M284 549C259 549 242 539 233 518L65 96L110 96L332 463C337 472 340 482 340 493C340 523 314 549 284 549Z" />
+    <path
+       id="MJX-67-NCM-N-2C"
+       d="M139 106C107 106 86 82 86 50C86 20 109-5 139-5C153-5 165-1 174 8L175 0C175-63 154-117 112-160C105-168 101-174 101-178C101-188 105-193 114-193C123-193 135-181 152-158C186-110 203-57 203 0C203 53 185 106 139 106Z" />
+    <path
+       id="MJX-67-NCM-B-1D42C"
+       d="M415 140C415 183 395 218 360 246C321 275 289 281 211 294C174 301 109 312 109 359C109 421 202 421 221 421C296 421 334 392 339 337C340 322 341 317 362 317C386 317 386 322 386 345L386 425C386 444 386 453 368 453C364 453 362 453 323 434C297 447 262 453 222 453C192 453 38 453 38 322C38 282 58 255 78 238C118 203 156 197 233 183C269 177 344 164 344 105C344 30 252 30 230 30C124 30 98 103 86 146C81 160 76 160 62 160C38 160 38 154 38 131L38 22C38 3 38-6 56-6C63-6 65-6 86 9L112 26C158-6 210-6 230-6C261-6 415-6 415 140Z" />
+    <path
+       id="MJX-67-NCM-B-1D42B"
+       d="M442 368C442 421 388 450 336 450C266 450 226 400 203 337L203 450L37 442L37 395C99 395 106 395 106 356L106 47L37 47L37 0L163 3C201 3 265 3 301 0L301 47L214 47L214 222C214 292 239 414 339 414C339 414 320 397 320 368C320 327 352 307 381 307C410 307 442 328 442 368Z" />
+  </defs>
+  <rect
+     style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.0649999;stroke-opacity:0;paint-order:markers stroke fill"
+     id="rect10"
+     width="61.935905"
+     height="28.81175"
+     x="19.699915"
+     y="110.17822"
+     transform="translate(31.548763,0.0064286)"
+     inkscape:export-filename="aam-idea.png"
+     inkscape:export-xdpi="839.00714"
+     inkscape:export-ydpi="839.00714" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1-4"
+     transform="translate(31.548762,0.0064286)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-5)"
+       d="M 53.065056,135.44665 H 79.077151"
+       id="path2-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-5)"
+       d="M 55.060688,137.51828 V 113.18026"
+       id="path1-6-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:0.495, 0.495;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 53.701074,115.03861 23.775924,22.22291"
+       id="path3-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle-4)"
+       d="m 64.783387,125.30833 3.319583,-3.49704"
+       id="path5-2"
+       sodipodi:nodetypes="cc"
+       inkscape:label="normal" />
+    <ellipse
+       style="fill:url(#radialGradient6-4);stroke:#df8701;stroke-width:0.217762;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501889"
+       id="path5-22"
+       transform="matrix(0.96030686,-0.27894575,0.33707946,0.9414762,0,0)"
+       inkscape:label="gaussian1"
+       ry="2.6349525"
+       rx="2.5436814"
+       cy="145.49431"
+       cx="20.003374" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 53.065056,135.44665 26.012095,0"
+       id="path1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 55.060688,137.51828 0,-24.33802"
+       id="path1-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:0.495, 0.495;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 53.701074,115.03861 23.775924,22.22291"
+       id="path2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 64.780533,125.29719 3.319583,-3.49704"
+       id="path4"
+       sodipodi:nodetypes="cc"
+       inkscape:label="normal" />
+    <path
+       style="fill:none;stroke:#6d6d6d;stroke-width:0.165;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow)"
+       d="m 73.994396,128.52677 c 8.373547,-2.2823 14.772743,-1.35782 21.937596,1.26471"
+       id="path4-9"
+       sodipodi:nodetypes="cc"
+       inkscape:label="normal" />
+    <ellipse
+       style="fill:url(#radialGradient6);stroke:#df8701;stroke-width:0.238857;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.501889"
+       id="path5"
+       cx="40.0145"
+       cy="144.42274"
+       rx="5.9430356"
+       ry="2.9740446"
+       transform="matrix(0.96316531,-0.26890998,0.20237873,0.97930733,0,0)"
+       inkscape:label="gaussian1"
+       inkscape:export-filename="aam-idea.png"
+       inkscape:export-xdpi="839.00714"
+       inkscape:export-ydpi="839.00714" />
+    <g
+       stroke="#000000"
+       fill="#000000"
+       stroke-width="0"
+       transform="matrix(0.00233743,0,0,-0.00233743,67.900873,126.60031)"
+       id="g9">
+      <g
+         data-mml-node="math"
+         data-latex="\boldsymbol \mu, \mathbf s, \mathbf r"
+         data-semantic-type="punctuated"
+         data-semantic-role="sequence"
+         data-semantic-annotation="depth:1"
+         data-semantic-id="5"
+         data-semantic-children="0,1,2,3,4"
+         data-semantic-content="1,3"
+         data-semantic-attributes="latex:\boldsymbol \mu, \mathbf s, \mathbf r"
+         data-semantic-owns="0 1 2 3 4"
+         aria-level="0"
+         data-speech-node="true"
+         data-semantic-structure="(5 0 1 2 3 4)"
+         id="g8">
+        <g
+           data-mml-node="mi"
+           data-latex="\boldsymbol \mu"
+           data-semantic-type="identifier"
+           data-semantic-role="greekletter"
+           data-semantic-font="bold-italic"
+           data-semantic-annotation="clearspeak:simple;nemeth:number;depth:2"
+           data-semantic-id="0"
+           data-semantic-parent="5"
+           data-semantic-attributes="latex:\boldsymbol \mu"
+           aria-level="1"
+           data-speech-node="true"
+           id="g1">
+          <use
+             data-c="1D741"
+             xlink:href="#MJX-64-NCM-BI-1D741"
+             id="use1" />
+        </g>
+        <g
+           data-mml-node="mo"
+           data-latex=","
+           data-semantic-type="punctuation"
+           data-semantic-role="comma"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="1"
+           data-semantic-parent="5"
+           data-semantic-attributes="latex:,"
+           data-semantic-operator="punctuated"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(708)"
+           id="g2">
+          <use
+             data-c="2C"
+             xlink:href="#MJX-64-NCM-N-2C"
+             id="use2" />
+        </g>
+        <g
+           data-mml-node="TeXAtom"
+           data-mjx-texclass="ORD"
+           data-latex="\mathbf s"
+           transform="translate(1152.7)"
+           id="g4">
+          <g
+             data-mml-node="mi"
+             data-latex="s"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="bold"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:2"
+             data-semantic-id="2"
+             data-semantic-parent="5"
+             data-semantic-attributes="latex:\mathbf s;texclass:ORD"
+             aria-level="1"
+             data-speech-node="true"
+             id="g3">
+            <use
+               data-c="1D42C"
+               xlink:href="#MJX-64-NCM-B-1D42C"
+               id="use3" />
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-latex=","
+           data-semantic-type="punctuation"
+           data-semantic-role="comma"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="3"
+           data-semantic-parent="5"
+           data-semantic-attributes="latex:,"
+           data-semantic-operator="punctuated"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1606.7)"
+           id="g5">
+          <use
+             data-c="2C"
+             xlink:href="#MJX-64-NCM-N-2C"
+             id="use4" />
+        </g>
+        <g
+           data-mml-node="TeXAtom"
+           data-mjx-texclass="ORD"
+           data-latex="\mathbf r"
+           transform="translate(2051.3)"
+           id="g7">
+          <g
+             data-mml-node="mi"
+             data-latex="r"
+             data-semantic-type="identifier"
+             data-semantic-role="latinletter"
+             data-semantic-font="bold"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:2"
+             data-semantic-id="4"
+             data-semantic-parent="5"
+             data-semantic-attributes="latex:\mathbf r;texclass:ORD"
+             aria-level="1"
+             data-speech-node="true"
+             id="g6">
+            <use
+               data-c="1D42B"
+               xlink:href="#MJX-64-NCM-B-1D42B"
+               id="use5" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       stroke="#000000"
+       fill="#000000"
+       stroke-width="0"
+       transform="matrix(0.00223573,0,0,-0.00223573,101.37751,128.79173)"
+       id="g15"
+       inkscape:export-filename="aam-idea.png"
+       inkscape:export-xdpi="839.00714"
+       inkscape:export-ydpi="839.00714">
+      <g
+         data-mml-node="math"
+         data-latex="\boldsymbol \mu', \mathbf s', \mathbf r'"
+         data-semantic-type="punctuated"
+         data-semantic-role="sequence"
+         data-semantic-annotation="depth:1"
+         data-semantic-id="11"
+         data-semantic-children="2,3,6,7,10"
+         data-semantic-content="3,7"
+         data-semantic-attributes="latex:\boldsymbol \mu', \mathbf s', \mathbf r'"
+         data-semantic-owns="2 3 6 7 10"
+         aria-level="0"
+         data-speech-node="true"
+         data-semantic-structure="(11 (2 0 1) 3 (6 4 5) 7 (10 8 9))"
+         id="g14">
+        <g
+           data-mml-node="msup"
+           data-semantic-type="superscript"
+           data-semantic-role="greekletter"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="2"
+           data-semantic-children="0,1"
+           data-semantic-parent="11"
+           data-semantic-owns="0 1"
+           aria-level="1"
+           data-speech-node="true"
+           id="g3-3"
+           transform="translate(338.28087)">
+          <g
+             data-mml-node="mi"
+             data-latex="\boldsymbol \mu"
+             data-semantic-type="identifier"
+             data-semantic-role="greekletter"
+             data-semantic-font="bold-italic"
+             data-semantic-annotation="clearspeak:simple;nemeth:number;depth:3"
+             data-semantic-id="0"
+             data-semantic-parent="2"
+             data-semantic-attributes="latex:\boldsymbol \mu"
+             aria-level="2"
+             data-speech-node="true"
+             id="g1-9">
+            <use
+               data-c="1D741"
+               xlink:href="#MJX-67-NCM-BI-1D741"
+               id="use1-4" />
+          </g>
+          <g
+             data-mml-node="mo"
+             transform="matrix(0.707,0,0,0.707,741,413)"
+             data-latex="'"
+             data-semantic-type="punctuation"
+             data-semantic-role="prime"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="1"
+             data-semantic-parent="2"
+             data-semantic-attributes="latex:'"
+             aria-level="2"
+             data-speech-node="true"
+             id="g2-8">
+            <use
+               data-c="2032"
+               xlink:href="#MJX-67-NCM-V-2032"
+               id="use2-1" />
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-latex=","
+           data-semantic-type="punctuation"
+           data-semantic-role="comma"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="3"
+           data-semantic-parent="11"
+           data-semantic-attributes="latex:,"
+           data-semantic-operator="punctuated"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1050.1321)"
+           id="g4-2">
+          <use
+             data-c="2C"
+             xlink:href="#MJX-67-NCM-N-2C"
+             id="use3-9" />
+        </g>
+        <g
+           data-mml-node="msup"
+           data-semantic-type="superscript"
+           data-semantic-role="latinletter"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="6"
+           data-semantic-children="4,5"
+           data-semantic-parent="11"
+           data-semantic-owns="4 5"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1523.5)"
+           id="g8-3">
+          <g
+             data-mml-node="TeXAtom"
+             data-mjx-texclass="ORD"
+             data-latex="\mathbf s"
+             id="g6-9">
+            <g
+               data-mml-node="mi"
+               data-latex="s"
+               data-semantic-type="identifier"
+               data-semantic-role="latinletter"
+               data-semantic-font="bold"
+               data-semantic-annotation="clearspeak:simple;nemeth:number;depth:3"
+               data-semantic-id="4"
+               data-semantic-parent="6"
+               data-semantic-attributes="latex:\mathbf s;texclass:ORD"
+               aria-level="2"
+               data-speech-node="true"
+               id="g5-0">
+              <use
+                 data-c="1D42C"
+                 xlink:href="#MJX-67-NCM-B-1D42C"
+                 id="use4-8" />
+            </g>
+          </g>
+          <g
+             data-mml-node="mo"
+             transform="matrix(0.707,0,0,0.707,487,413)"
+             data-latex="'"
+             data-semantic-type="punctuation"
+             data-semantic-role="prime"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="5"
+             data-semantic-parent="6"
+             data-semantic-attributes="latex:'"
+             aria-level="2"
+             data-speech-node="true"
+             id="g7-8">
+            <use
+               data-c="2032"
+               xlink:href="#MJX-67-NCM-V-2032"
+               id="use6" />
+          </g>
+        </g>
+        <g
+           data-mml-node="mo"
+           data-latex=","
+           data-semantic-type="punctuation"
+           data-semantic-role="comma"
+           data-semantic-annotation="nemeth:number;depth:2"
+           data-semantic-id="7"
+           data-semantic-parent="11"
+           data-semantic-attributes="latex:,"
+           data-semantic-operator="punctuated"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(1992.8184)"
+           id="g9-5">
+          <use
+             data-c="2C"
+             xlink:href="#MJX-67-NCM-N-2C"
+             id="use8" />
+        </g>
+        <g
+           data-mml-node="msup"
+           data-semantic-type="superscript"
+           data-semantic-role="latinletter"
+           data-semantic-annotation="depth:2"
+           data-semantic-id="10"
+           data-semantic-children="8,9"
+           data-semantic-parent="11"
+           data-semantic-owns="8 9"
+           aria-level="1"
+           data-speech-node="true"
+           transform="translate(2480.4202)"
+           id="g13">
+          <g
+             data-mml-node="TeXAtom"
+             data-mjx-texclass="ORD"
+             data-latex="\mathbf r"
+             id="g11">
+            <g
+               data-mml-node="mi"
+               data-latex="r"
+               data-semantic-type="identifier"
+               data-semantic-role="latinletter"
+               data-semantic-font="bold"
+               data-semantic-annotation="clearspeak:simple;nemeth:number;depth:3"
+               data-semantic-id="8"
+               data-semantic-parent="10"
+               data-semantic-attributes="latex:\mathbf r;texclass:ORD"
+               aria-level="2"
+               data-speech-node="true"
+               id="g10">
+              <use
+                 data-c="1D42B"
+                 xlink:href="#MJX-67-NCM-B-1D42B"
+                 id="use9" />
+            </g>
+          </g>
+          <g
+             data-mml-node="mo"
+             transform="matrix(0.707,0,0,0.707,507,413)"
+             data-latex="'"
+             data-semantic-type="punctuation"
+             data-semantic-role="prime"
+             data-semantic-annotation="depth:3"
+             data-semantic-id="9"
+             data-semantic-parent="10"
+             data-semantic-attributes="latex:'"
+             aria-level="2"
+             data-speech-node="true"
+             id="g12">
+            <use
+               data-c="2032"
+               xlink:href="#MJX-67-NCM-V-2032"
+               id="use11" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.165;stroke-dasharray:0.165, 0.66;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 55.05076,135.41648 9.680604,-10.06759"
+       id="path3"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="use39"
+       d="m 64.11298,125.2342 c -0.09189,0.005 -0.201695,0.0401 -0.330212,0.10594 -0.164752,0.084 -0.3022,0.18275 -0.413412,0.29507 l -0.598929,0.60513 -5.17e-4,-5.2e-4 -2.988965,3.0484 c -0.175819,0.17933 -0.346601,0.29874 -0.479041,0.38757 -0.128719,0.0876 -0.216857,0.1067 -0.263033,0.061 -0.01373,-0.0136 -0.02723,-0.0122 -0.04082,0.002 -0.01359,0.0137 -0.01476,0.0272 -10e-4,0.0408 0.04618,0.0457 0.02633,0.13511 -0.05994,0.26717 -0.08628,0.13206 -0.218106,0.28559 -0.394808,0.46405 l -3.000851,3.02928 10e-4,0.001 -0.605131,0.61082 c -0.111211,0.11231 -0.209071,0.25042 -0.291455,0.41599 -0.103293,0.20666 -0.128473,0.36474 -0.077,0.47749 v 5.2e-4 l 5.17e-4,5.2e-4 v 5.1e-4 l 5.17e-4,5.2e-4 c 0.0012,0.002 0.0039,0.005 0.0067,0.008 0.01373,0.0136 0.02723,0.0122 0.04083,-0.002 0.0086,-0.009 0.01123,-0.0212 0.0062,-0.0336 -0.03137,-0.0657 -0.0036,-0.16621 0.08268,-0.30076 0.08626,-0.13454 0.208826,-0.28067 0.363286,-0.43666 l 0.606681,-0.61237 -10e-4,-0.001 2.999301,-3.02721 c 0.11,-0.11104 0.206263,-0.23858 0.286287,-0.3793 0.100944,-0.17933 0.140968,-0.32708 0.116789,-0.44494 0.11809,0.023 0.281084,-0.005 0.459403,-0.108 0.139927,-0.0814 0.266779,-0.17829 0.376205,-0.2899 l 2.980179,-3.03961 5.17e-4,5.1e-4 0.607715,-0.61391 c 0.15446,-0.156 0.299361,-0.27983 0.433049,-0.36742 0.133687,-0.0876 0.234067,-0.11681 0.301273,-0.0873 0.01244,0.005 0.02339,0.004 0.03204,-0.005 0.01359,-0.0137 0.01476,-0.0272 0.001,-0.0408 -0.0028,-0.003 -0.006,-0.006 -0.0083,-0.007 h -5.17e-4 -5.17e-4 -5.16e-4 c -0.04247,-0.0189 -0.09111,-0.0272 -0.146245,-0.0243 z"
+       inkscape:label="brace"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.302;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <g
+       stroke="#000000"
+       fill="#000000"
+       stroke-width="0"
+       transform="matrix(0.00300515,0,0,-0.00300515,57.506326,129.51987)"
+       id="g3-8"
+       inkscape:label="z">
+      <g
+         data-mml-node="math"
+         data-latex="z"
+         data-semantic-structure="0"
+         id="g2-5">
+        <g
+           data-mml-node="mi"
+           data-latex="z"
+           data-semantic-type="identifier"
+           data-semantic-role="latinletter"
+           data-semantic-font="italic"
+           data-semantic-annotation="clearspeak:simple;nemeth:number;depth:1"
+           data-semantic-id="0"
+           data-semantic-attributes="latex:z"
+           aria-level="0"
+           data-speech-node="true"
+           id="g1-6">
+          <use
+             data-c="1D467"
+             xlink:href="#MJX-16-NCM-I-1D467"
+             id="use1-1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

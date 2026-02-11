@@ -1,0 +1,9 @@
+resource-pack: exe:tudo
+
+template:
+  deck:
+    css:
+      - custom-styles.css
+
+static-resource-dirs:
+  - js

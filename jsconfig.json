@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "checkJs": true,
+    "target": "ES6",
+    "baseUrl": ".",
+    "paths": {
+      "/support/*": ["public/support/*"]
+    }
+  }
+}
